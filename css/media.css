@@ -201,3 +201,8 @@
         align-items: center;
     }
 }
+@media (max-width: 1034px) {
+    .scrollToTop {
+        display: none;
+    }
+}
